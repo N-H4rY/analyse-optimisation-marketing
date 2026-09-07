@@ -5,8 +5,8 @@ segmenter les clients, analyser les comportements d'achat, évaluer les performa
 campagnes marketing et proposer une stratégie marketing digitale personnalisée assistée
 par l'intelligence artificielle.
 
-Voir [Documentation/Projet-pédagogique-SMD-IA-et-PRSD.pdf](Documentation/Projet-pédagogique-SMD-IA-et-PRSD.pdf)
-pour le cahier des charges complet.
+Le cahier des charges complet (`Documentation/Projet-pédagogique-SMD-IA-et-PRSD.pdf`) est
+disponible en local mais n'est pas versionné dans ce dépôt.
 
 ## Structure du projet
 
