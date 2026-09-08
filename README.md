@@ -31,7 +31,7 @@ Fichiers sources dans `data/raw/` :
 - `sales_data.csv` — transactions (jointure customer/produit, canal)
 - `marketing_data.csv` — campagnes (impressions, clics, conversions, budget)
 
-> ⚠️ Les fichiers fournis ne contiennent que 5 lignes chacun (échantillon de démonstration).
+> Les fichiers fournis ne contiennent que 5 lignes chacun (échantillon de démonstration).
 > Cela suffit pour dérouler le pipeline de bout en bout, mais les résultats de clustering
 > (M3) et de modélisation prédictive (M6) ne seront pas statistiquement significatifs tant
 > que le volume de données réel n'est pas fourni.
