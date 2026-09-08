@@ -10,3 +10,4 @@ reports/*.pdf
 reports/*.pptx
 !reports/.gitkeep
 Documentation/*.pdf
+Documentation/guides/
